@@ -4,4 +4,4 @@
 * Make payment of that by Debit card.
 * Admin can add, update and delete the product.
 ### Made with React, node.js, Mongodb, express.js
-![](https://github.com/harshkothari-hk/React-E-Commerce-Website-with-Payment-gateway/blob/master/Images/Screenshot%20(56).png)
+![](https://github.com/harshkothari-hk/React-E-Commerce-Website-with-Payment-gateway/blob/master/Images/Screenshot%50(56).png)
